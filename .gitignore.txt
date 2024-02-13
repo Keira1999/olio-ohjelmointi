@@ -1,0 +1,11 @@
+teht1/build/
+teht1/*.user
+teht2/build/
+teht2/*.user
+teht3/build/
+teht3/*.user
+teht5/build/
+teht5/*.user
+
+**/build/
+**/*.user
